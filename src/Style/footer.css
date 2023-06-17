@@ -1,0 +1,65 @@
+footer{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    color: black;
+    display: grid;
+    grid-template-columns: 4fr 1fr ;
+    padding: 2rem;
+
+    >div{
+        display: flex;
+        flex-direction: column;
+        
+        
+
+        >h1{
+            color: #5853ff;
+            text-transform: uppercase;
+            font:700 2rem;
+            
+        }
+
+        >h2{
+            color: #2c2c2c;
+            text-transform: uppercase;
+            font: 500 1.2rem Roboto;
+            
+               }
+
+        >p{
+            color: black;
+            text-transform: uppercase;
+            font:700 2rem;
+        }
+        >div{
+            display: flex;
+            flex-direction: column;
+            
+            
+
+            
+        }
+    }
+}
+
+a{
+    text-decoration: none;
+    align-items: center;
+    
+    color: #2c2c2c;
+    font: 900 1rem cursive;
+}
+
+@media only screen and (max-width: 740px){
+    footer{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        >div{
+            margin: 1.5rem;
+        }
+    }
+
+}
