@@ -71,7 +71,7 @@ position: absolute;
             color: white;
             letter-spacing:1px;
             word-spacing:3px;
-            font-family: monospace;
+            font-family: cursive;
             font-size:1.3rem;
             font-weight:100;
         }
@@ -180,6 +180,14 @@ position: absolute;
     }
 }
 
+.Ptext{
+    color: white;
+    letter-spacing:1px;
+    word-spacing:3px;
+    font-family: monospace;
+    font-size:1.3rem;
+    font-weight:100;
+}
 
 @media screen and(max-width:700px){
     .home>main{
@@ -275,13 +283,13 @@ position: absolute;
         }
         
     
-        @media only screen and (max-width: 520px){
+        @media only screen and (max-width: 740px){
             
            img{
             margin-top: 120px;
            } 
-           .Ptext{
-            font-size: 50px;
-           }
+           
         }
+
+      
         
