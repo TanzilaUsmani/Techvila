@@ -15,9 +15,9 @@
     padding:2rem;
     justify-content: center;
 
-    >h1{
+    >h2{
         color: white;
-        font-size: 5rem;
+        font-size: 4rem;
     }
     > p{
         color: white;
@@ -276,3 +276,4 @@ position: absolute;
         
     
        
+        

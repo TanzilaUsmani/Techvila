@@ -17,6 +17,16 @@
     .new{
         height: 70vh;
     }
+
+}
+
+@media screen and (max-width: 5s20px){
+    .new{
+        height: 70vh;
+    }
+   img{
+    margin-top: 90px;
+   } 
 }
     
 
