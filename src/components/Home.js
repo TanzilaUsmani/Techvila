@@ -14,7 +14,7 @@ function Home(){
 <div className="new">
     <img src={vg} alt="Graphics"/>
 <div>
-    <p>We are your one and only solution to the
+    <p className="Ptext">We are your one and only solution to the
      tech problems you face every day.
      We are leading tech company whose aim is 
      to increase the problem solving ability in children.</p>

@@ -70,7 +70,7 @@ position: absolute;
         >p{
             color: white;
             letter-spacing:1px;
-            word-spacing:4px;
+            word-spacing:3px;
             font-family: monospace;
             font-size:1.3rem;
             font-weight:100;
@@ -275,5 +275,13 @@ position: absolute;
         }
         
     
-       
+        @media only screen and (max-width: 520px){
+            
+           img{
+            margin-top: 120px;
+           } 
+           .Ptext{
+            font-size: 50px;
+           }
+        }
         
