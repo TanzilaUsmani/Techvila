@@ -17,7 +17,7 @@ import './Style/contact.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="Techvila">
     <Nav/>
     
       <Routes>
