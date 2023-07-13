@@ -2,6 +2,7 @@ import React from "react";
 import vg from '../image/2.png';
 import { AiFillGoogleCircle,AiFillAmazonCircle,AiFillYoutube,AiFillInstagram } from "react-icons/ai";
 
+
 function Home(){
     return(
         <>
