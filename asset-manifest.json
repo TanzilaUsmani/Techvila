@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Techvila/static/css/main.47f6fd57.css",
+    "main.css": "/Techvila/static/css/main.7c15807f.css",
     "main.js": "/Techvila/static/js/main.4874660c.js",
     "static/js/787.71e672d5.chunk.js": "/Techvila/static/js/787.71e672d5.chunk.js",
     "static/media/1.png": "/Techvila/static/media/1.9741230b4b4fe8213efa.png",
     "static/media/2.png": "/Techvila/static/media/2.d220a3d66e300c8564e4.png",
     "index.html": "/Techvila/index.html",
-    "main.47f6fd57.css.map": "/Techvila/static/css/main.47f6fd57.css.map",
+    "main.7c15807f.css.map": "/Techvila/static/css/main.7c15807f.css.map",
     "main.4874660c.js.map": "/Techvila/static/js/main.4874660c.js.map",
     "787.71e672d5.chunk.js.map": "/Techvila/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f6fd57.css",
+    "static/css/main.7c15807f.css",
     "static/js/main.4874660c.js"
   ]
 }
